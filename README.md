@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I am passionate about mechatronic engineering with a strong interest in science, technological development, and innovation. Currently, I am exploring the world of **Data Engineering**, while also working on **accessible and innovative biomedical device** projects.
 
-I have also worked on **telemetry systems for experimental rockets**, **signal processing with sensors like MPU9250 and BME280**, and the development of **mobile applications in B4A** for hardware control using **ESP32 and Bluetooth**.
+I have also worked on **telemetry systems for experimental rockets**, **real time serial data reading in streamlit**, **signal processing with sensors like MPU9250 and BME280**, and the development of **mobile applications in B4A** for hardware control using **ESP32 and Bluetooth**.
 
 ### 🛠️ Technologies & Tools
 - **Programming Languages**: Python, C++, Java, B4A, Arduino

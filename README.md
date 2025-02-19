@@ -9,7 +9,7 @@ I have also worked on **telemetry systems for experimental rockets**, **real tim
 - **Programming Languages**: Python, C++, B4A, Arduino
 - **Hardware**: Arduino, ESP32, Raspberry Pi, IMU Sensors, nRF24L01
 - **Data Engineering**: Data processing, storage, and visualization
-- **Application Development**: B4A, Nextcloud, Signal Processing
+- **Application Development**: Flask, B4A, Nextcloud, Signal Processing
 - **Other Skills**: Astronomy, photography, cultural management
 
 ### 📌 Featured Projects

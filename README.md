@@ -20,7 +20,7 @@ I have also worked on **telemetry systems for experimental rockets**, **real tim
 ### 🎯 Goals
 📊 Become an expert in **Data Engineering** and apply my mechatronic knowledge to develop innovative solutions.
 
-💡 Continue creating projects that positively impact society, particularly in the field of biomedical devices and technological accessibility.
+💡 Continue creating projects that positively impact society.
 
 If you're interested in collaborating on any of my projects or sharing ideas, feel free to connect with me! 🚀
 

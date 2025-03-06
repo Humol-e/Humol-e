@@ -15,7 +15,7 @@ I have also worked on **telemetry systems for experimental rockets**, **real tim
 ### 📌 Featured Projects
 - **🚀 Payload for Water Rocket**: Telemetry data transmission and processing using MPU9250, BME280, and GPS sensors.
 - **🤖 Biomedical Device for Knee Rehabilitation**: Innovative prototype presented at **ExpoCiencias Nacional Tabasco 2024**.
-- **🤖 Web-Scraping**: Scraping web with beautiful soup.
+- **🌐 Web-Scraping**: Scraping web with beautiful soup.
 - **🎶 Astro.difusión**: Cultural organization in Los Mochis that promotes local musical talent.
 
 ### 🎯 Goals

@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Emiliano Castro!
 
 ### 🚀 About Me
-I am passionate about mechatronics and data engineering with a strong interest in science, technological development, and innovation.
-I have worked on **telemetry systems for experimental rockets**, **real time serial data reading in streamlit**, **signal processing with sensors like MPU9250 and BME280**, and the development of **mobile applications in B4A** for hardware control using **ESP32 and Bluetooth**.
+Student of mechatronics engineering with a strong interest in science, technological development, and innovation.
+I have worked on **telemetry systems for experimental rockets**, **real time serial data reading in streamlit**, **signal processing with sensors like MPU9250 and BME280**, and the development of **Control Algorithms** for a fast and efficient **Line-Follower**.
 
 ### 🛠️ Technologies & Tools
 - **Software**: Python, C++, SQL, Arduino.
@@ -19,7 +19,7 @@ I have worked on **telemetry systems for experimental rockets**, **real time ser
 - **🌐 Web-Scraping**: Scraping web with Beautiful Soup.
 
 ### 🎯 Goals
-📊 Become an expert in **Data Engineering** and apply my mechatronic knowledge to develop innovative solutions.
+📊 Become an expert in **Mechatronical Engineering** and apply my mechatronic knowledge to develop innovative solutions.
 💡 Continue creating projects that positively impact society.
 
 If you're interested in collaborating on any of my projects or sharing ideas, feel free to connect with me! 🚀

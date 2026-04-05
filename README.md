@@ -8,7 +8,7 @@ I have worked on **telemetry systems for experimental rockets**, **real time ser
 - **Software**: Python, C++, SQL, Arduino, Web development, PID Algorithms.
 - **Hardware**: Arduino, ESP32, Teensy, Raspberry Pi, IMU Sensors, nRF24L01.
 - **Data Engineering**: Data processing, storage, and visualization.
-- **Application Development**: Flask, Streamlit, Nextcloud.
+- **Robotic Development**: KiCad, Proteus, Solidworks, OpenRocket.
 - **Other Skills**: Team-work, fast learner, leadership, time management.
 
 ### 📌 Featured Projects

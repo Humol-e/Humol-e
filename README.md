@@ -12,6 +12,7 @@ I have worked on **telemetry systems for experimental rockets**, **real time ser
 - **Robotic Development**: KiCad, Proteus, Solidworks, OpenRocket.
 - **Other Skills**: Team-work, fast learner, leadership, time management.
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Humol-e&include_all_commits=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=Humol-e&include_all_commits=true&theme=highcontrast)
 ### 📌 Featured Projects
 - **🏆 Line Follower Robot**: Award-winning autonomous robot — **1st place at State Tournament**.
 - **☄️ Meteorite Impact & Deflection Calculator**: Global nominee at **NASA Space Apps Challenge 2025**.

@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times&pause=1000&color=F70000&center=true&width=435&height=30&lines=Si+lo+puedes+imaginar%2C+lo+puedes+programar!)](https://git.io/typing-svg)
 # 👋 Hello, I'm Emiliano Castro!
 
 ### 🚀 About Me
